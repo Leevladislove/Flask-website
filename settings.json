@@ -1,0 +1,17 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Vladislav Lee: Python back-end developer",
+"description": "Vladislav Lee - портфолио & резюме Python разработчика",
+"keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
+"name": "Vladislav Lee",
+"tag1":"Python back-end developer",
+
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect5":"Контакты",
+
+"telegram":"https://t.me/leevladislove",
+"facebook":"ttps://facebook.com/john.doe",
+"instagram":"https://www.instagram.com/leevladislove/",
+"email":"mailto:leevladislove@gmail.com",
+"city":"Almaty"
+}
